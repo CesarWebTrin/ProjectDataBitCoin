@@ -5,7 +5,7 @@ Projeto final da matéria Data Engineer Data Science do MBA Full Stack Impacta. 
 
 Projeto trata-se do consumo da API CoinApi afim de recuperar dados sobre as precificações do Bitcoin nos últimos 30 dias e últimos 5 anos. O código fonte foi construído em Python armazenando as informações em banco de dados SQL Server.
 
-Linguagem de Progamação: Python 3.7.4
+Linguagem de Programação: Python 3.7.4
 Banco de Dados: SQL Server
 
 # Metodologia :
